@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "category": "Math",
+      "question": "Which number comes next in the sequence? 2, 4, 8, 16, ___",
+      "options": ["A) 24", "B) 18", "C) 32", "D) 64"],
+      "answer": "C) 32"
+    },
+    {
+      "category": "Logical Reasoning",
+      "question": "If all roses are red, and this flower is a rose, what color is it?",
+      "options": ["A) Yellow", "B) Red", "C) Blue", "D) Green"],
+      "answer": "B) Red"
+    },
+    {
+      "category": "General Knowledge",
+      "question": "What is the capital of France?",
+      "options": ["A) Madrid", "B) London", "C) Berlin", "D) Paris"],
+      "answer": "D) Paris"
+    },
+    {
+      "category": "Verbal Aptitude",
+      "question": "Which word is the antonym (opposite) of 'joy'?",
+      "options": ["A) Sadness", "B) Excitement", "C) Happiness", "D) Contentment"],
+      "answer": "A) Sadness"
+    },
+    {
+      "category": "Geometry",
+      "question": "What is the sum of the angles in a triangle?",
+      "options": ["A) 90 degrees", "B) 180 degrees", "C) 270 degrees", "D) 360 degrees"],
+      "answer": "B) 180 degrees"
+    },
+    {
+      "category": "Puzzle",
+      "question": "How many squares are there in the following figure? (An image of a square divided into smaller squares)",
+      "options": ["A) 6", "B) 12", "C) 16", "D) 24"],
+      "answer": "C) 16"
+    },
+    {
+      "category": "Science",
+      "question": "Which planet is known as the 'Red Planet'?",
+      "options": ["A) Venus", "B) Jupiter", "C) Mars", "D) Saturn"],
+      "answer": "C) Mars"
+    },
+    {
+      "category": "Logical Reasoning",
+      "question": "If all cats have tails, and this animal is a cat, does it have a tail?",
+      "options": ["A) Yes", "B) No"],
+      "answer": "A) Yes"
+    },
+    {
+      "category": "Math",
+      "question": "What is the square root of 144?",
+      "options": ["A) 11", "B) 12", "C) 10", "D) 13"],
+      "answer": "B) 12"
+    },
+    {
+      "category": "General Knowledge",
+      "question": "Who is the author of the Harry Potter series?",
+      "options": ["A) J.R.R. Tolkien", "B) J.K. Rowling", "C) George Orwell", "D) Charles Dickens"],
+      "answer": "B) J.K. Rowling"
+    }
+  ]
+}

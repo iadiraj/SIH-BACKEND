@@ -1,0 +1,1 @@
+module.exports.gptKey = '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';

@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "category": "Math",
+      "question": "You are on a treasure hunt, and you find a clue that says, 'If you double my number and subtract 7, you get 21. What is my number?'",
+      "options": ["A) 14", "B) 11", "C) 7", "D) 10"],
+      "answer": "B) 11"
+    },
+    {
+      "category": "Logical Reasoning",
+      "question": "You are arranging a puzzle with colorful blocks. The blue block must be to the left of the red block. Which arrangement is correct?",
+      "options": ["A) Red - Blue", "B) Blue - Red", "C) Red - Green - Blue", "D) Blue - Green - Red"],
+      "answer": "A) Red - Blue"
+    },
+    {
+      "category": "General Knowledge",
+      "question": "Which planet is known as the 'Red Planet'?",
+      "options": ["A) Venus", "B) Jupiter", "C) Mars", "D) Saturn"],
+      "answer": "C) Mars"
+    },
+    {
+      "category": "Verbal Aptitude",
+      "question": "Which word is the synonym (similar meaning) of 'joy'?",
+      "options": ["A) Sadness", "B) Excitement", "C) Happiness", "D) Boredom"],
+      "answer": "C) Happiness"
+    },
+    {
+      "category": "Geometry",
+      "question": "What is the name of a three-sided polygon?",
+      "options": ["A) Rectangle", "B) Square", "C) Triangle", "D) Circle"],
+      "answer": "C) Triangle"
+    },
+    {
+      "category": "Puzzle",
+      "question": "You have a 3x3 grid, and you need to arrange nine identical tiles to form a square. How many tiles do you need to move?",
+      "options": ["A) 1", "B) 2", "C) 3", "D) 4"],
+      "answer": "B) 2"
+    },
+    {
+      "category": "Science",
+      "question": "Which gas do plants absorb from the atmosphere during photosynthesis?",
+      "options": ["A) Oxygen", "B) Nitrogen", "C) Carbon Dioxide", "D) Hydrogen"],
+      "answer": "C) Carbon Dioxide"
+    },
+    {
+      "category": "Logical Reasoning",
+      "question": "If all apples are fruits, and some fruits are juicy, can we conclude that some apples are juicy?",
+      "options": ["A) Yes", "B) No"],
+      "answer": "A) Yes"
+    },
+    {
+      "category": "Math",
+      "question": "What is the perimeter of a rectangle with a length of 8 units and a width of 5 units?",
+      "options": ["A) 13 units", "B) 16 units", "C) 26 units", "D) 40 units"],
+      "answer": "B) 16 units"
+    },
+    {
+      "category": "General Knowledge",
+      "question": "Who wrote the famous play 'Romeo and Juliet'?",
+      "options": ["A) Charles Dickens", "B) William Shakespeare", "C) Jane Austen", "D) Mark Twain"],
+      "answer": "B) William Shakespeare"
+    }
+  ]
+}

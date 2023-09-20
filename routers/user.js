@@ -1,0 +1,16 @@
+const express = require('express');
+const validate = require('../middlewares/authenticate');
+const userController = require('../controllers/userController');
+const userInfoController = require('../controllers/userInfoController');
+const questionController = require('../controllers/questionController');
+const scoreController = require('../controllers/scoreController');
+const router = express.Router();
+// router.use('/', validate, );
+router.post('/login', userController.login);
+router.post('/signup', userController.signup);
+router.get('/getInfo', validate, userInfoController.getInfo);
+router.post('/updateInfo', validate, userInfoController.updateInfo);
+router.get('/getQuestion/:type', validate, questionController.getQuestion);
+router.post('/submitScore', validate, scoreController.submitScore);
+router.use('/chat', require('../routers/chat'));
+module.exports = router;

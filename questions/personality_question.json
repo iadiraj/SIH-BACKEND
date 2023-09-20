@@ -1,0 +1,76 @@
+{
+  "questions": [
+    {
+      "question": "What are you passionate about?",
+      "options": [
+        "a) Helping others",
+        "b) Solving problems",
+        "c) Creating things",
+        "d) Making money",
+        "e) Being in the spotlight"
+      ]
+    },
+    {
+      "question": "What are your strengths and weaknesses?",
+      "options": [
+        "a) Strengths: creative, analytical, detail-oriented; Weaknesses: impatient, perfectionist",
+        "b) Strengths: outgoing, good at public speaking, able to build relationships; Weaknesses: shy, disorganized",
+        "c) Strengths: good with numbers, able to think logically, able to handle stress; Weaknesses: not creative, not good at public speaking",
+        "d) Strengths: entrepreneurial spirit, able to take risks, able to work independently; Weaknesses: not detail-oriented, not good at following instructions",
+        "e) Strengths: athletic, coordinated, able to perform in front of an audience; Weaknesses: not good with numbers, not good at public speaking"
+      ]
+    },
+    {
+      "question": "What kind of work environment do you prefer?",
+      "options": [
+        "a) Collaborative environment where I can work with others",
+        "b) Independent environment where I can work on my own",
+        "c) Creative environment where I can express myself",
+        "d) Fast-paced environment where I can be challenged",
+        "e) Structured environment where I have clear instructions"
+      ]
+    },
+    {
+      "question": "Do you like to work independently or as part of a team?",
+      "options": [
+        "a) Independently",
+        "b) As part of a team"
+      ]
+    },
+    {
+      "question": "Are you creative or analytical?",
+      "options": [
+        "a) Creative",
+        "b) Analytical"
+      ]
+    },
+    {
+      "question": "Do you prefer to work indoors or outdoors?",
+      "options": [
+        "a) Indoors",
+        "b) Outdoors"
+      ]
+    },
+    {
+      "question": "Are you comfortable with public speaking?",
+      "options": [
+        "a) Yes",
+        "b) No"
+      ]
+    },
+    {
+      "question": "Are you detail-oriented or do you see the big picture?",
+      "options": [
+        "a) Detail-oriented",
+        "b) See the big picture"
+      ]
+    },
+    {
+      "question": "How do you handle stress and pressure?",
+      "options": [
+        "a) I handle stress and pressure well.",
+        "b) I do not handle stress and pressure well."
+      ]
+    }
+  ]
+}

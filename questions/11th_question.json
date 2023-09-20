@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "question": "Solve the equation for 'x': 2x^2 + 3x - 5 = 0.",
+      "options": [
+        "A) x = -2.5 or x = 1",
+        "B) x = 2.5 or x = -1",
+        "C) x = -1 or x = 2.5",
+        "D) x = 1 or x = -2.5"
+      ],
+      "answer": "A) x = -2.5 or x = 1"
+    },
+    {
+      "question": "In a chess tournament, five friends—Alice, Bob, Carol, Dave, and Eve—compete. Alice cannot play against Carol. Who does Dave play against?",
+      "options": [
+        "A) Bob",
+        "B) Carol",
+        "C) Alice",
+        "D) Eve"
+      ],
+      "answer": "A) Bob"
+    },
+    {
+      "question": "Which two elements make up more than 99% of the Earth's crust by mass?",
+      "options": [
+        "A) Iron and Aluminum",
+        "B) Oxygen and Silicon",
+        "C) Carbon and Hydrogen",
+        "D) Sodium and Potassium"
+      ],
+      "answer": "B) Oxygen and Silicon"
+    },
+    {
+      "question": "Which of the following words is an anagram of 'resilient'?",
+      "options": [
+        "A) Sentinel",
+        "B) Leniites",
+        "C) Listener",
+        "D) Trellis"
+      ],
+      "answer": "B) Leniites"
+    },
+    {
+      "question": "What is the measure of one interior angle in a regular hexagon?",
+      "options": [
+        "A) 60 degrees",
+        "B) 90 degrees",
+        "C) 120 degrees",
+        "D) 180 degrees"
+      ],
+      "answer": "C) 120 degrees"
+    },
+    {
+      "question": "You have two hourglasses, one measuring 7 minutes and the other measuring 11 minutes. How can you measure exactly 15 minutes using only these two hourglasses?",
+      "options": [
+        "A) Start both hourglasses at the same time.",
+        "B) Start the 11-minute hourglass and flip it when it runs out.",
+        "C) Start the 7-minute hourglass and flip it when it runs out.",
+        "D) None of the above."
+      ],
+      "answer": "B) Start the 11-minute hourglass and flip it when it runs out."
+    },
+    {
+      "question": "Which subatomic particle is responsible for chemical reactions and bonding?",
+      "options": [
+        "A) Electron",
+        "B) Neutron",
+        "C) Proton",
+        "D) Photon"
+      ],
+      "answer": "A) Electron"
+    },
+    {
+      "question": "In a deck of playing cards, if a card is not a spade, then it is red. What is the color of the Ace of Hearts?",
+      "options": [
+        "A) Black",
+        "B) Red",
+        "C) Spade",
+        "D) None of the above"
+      ],
+      "answer": "B) Red"
+    },
+    {
+      "question": "What is the value of π (pi) to three decimal places?",
+      "options": [
+        "A) 3.142",
+        "B) 3.141",
+        "C) 3.140",
+        "D) 3.139"
+      ],
+      "answer": "A) 3.142"
+    },
+    {
+      "question": "Who is the author of the philosophical work 'Meditations'?",
+      "options": [
+        "A) Aristotle",
+        "B) Plato",
+        "C) Epictetus",
+        "D) Marcus Aurelius"
+      ],
+      "answer": "D) Marcus Aurelius"
+    }
+  ]
+}

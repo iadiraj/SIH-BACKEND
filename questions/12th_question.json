@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "category": "Math",
+      "question": "Solve the following trigonometric equation for 'x': sin^2(x) + 2sin(x)cos(x) - 1 = 0.",
+      "options": ["A) x = π/6 or x = 5π/6", "B) x = π/4 or x = 3π/4", "C) x = π/3 or x = 2π/3", "D) x = π/2 or x = π"],
+      "answer": "B) x = π/4 or x = 3π/4"
+    },
+    {
+      "category": "Logical Reasoning",
+      "question": "You're managing a team of engineers. Each engineer is skilled in either coding, hardware, or data analysis. If Jane can code and analyze data, and Mark can only code, who can analyze data?",
+      "options": ["A) Jane", "B) Mark", "C) Both Jane and Mark", "D) Not enough information to determine"],
+      "answer": "A) Jane"
+    },
+    {
+      "category": "General Knowledge",
+      "question": "Which famous scientist is credited with the theory of general relativity?",
+      "options": ["A) Isaac Newton", "B) Galileo Galilei", "C) Albert Einstein", "D) Stephen Hawking"],
+      "answer": "C) Albert Einstein"
+    },
+    {
+      "category": "Verbal Aptitude",
+      "question": "Which word is the synonym (similar meaning) of 'ubiquitous'?",
+      "options": ["A) Scarce", "B) Abundant", "C) Pervasive", "D) Obsolete"],
+      "answer": "C) Pervasive"
+    },
+    {
+      "category": "Geometry",
+      "question": "What is the volume of a cylinder with a radius of 5 units and a height of 10 units?",
+      "options": ["A) 50π cubic units", "B) 100π cubic units", "C) 250π cubic units", "D) 500π cubic units"],
+      "answer": "B) 100π cubic units"
+    },
+    {
+      "category": "Puzzle",
+      "question": "You have a 3-liter jug and a 5-liter jug. How can you measure exactly 4 liters of water using only these two jugs?",
+      "options": ["A) Fill the 3-liter jug and pour it into the 5-liter jug. Fill the 3-liter jug again and carefully pour it into the 5-liter jug until it's full. You'll have 4 liters in the 5-liter jug.", "B) Fill the 5-liter jug and pour it into the 3-liter jug until the 3-liter jug is full. You'll have 2 liters left in the 5-liter jug. Repeat this step once more to get 4 liters in the 3-liter jug.", "C) Neither of the above.", "D) Both A and B."],
+      "answer": "D) Both A and B."
+    },
+    {
+      "category": "Science",
+      "question": "Which subatomic particle is found in the nucleus of an atom and has a positive charge?",
+      "options": ["A) Electron", "B) Neutron", "C) Proton", "D) Photon"],
+      "answer": "C) Proton"
+    },
+    {
+      "category": "Logical Reasoning",
+      "question": "In a game of chess, if a knight moves two squares in one direction and then one square perpendicular to that direction, how many different squares can it land on in one move?",
+      "options": ["A) 4", "B) 6", "C) 8", "D) 10"],
+      "answer": "C) 8"
+    },
+    {
+      "category": "Math",
+      "question": "What is the value of the mathematical constant 'e' (Euler's number) to three decimal places?",
+      "options": ["A) 2.618", "B) 2.718", "C) 2.818", "D) 2.918"],
+      "answer": "B) 2.718"
+    },
+    {
+      "category": "General Knowledge",
+      "question": "Who is the author of the science fiction novel 'Dune'?",
+      "options": ["A) Arthur C. Clarke", "B) Isaac Asimov", "C) Frank Herbert", "D) Philip K. Dick"],
+      "answer": "C) Frank Herbert"
+    }
+  ]
+}
